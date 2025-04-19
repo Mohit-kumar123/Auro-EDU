@@ -101,9 +101,5 @@ _Interface for results._
 5.  The "Current Voting Results" will update with the votes.
 
 
-## License
-
-[**Specify your project's license, e.g., MIT License. You can add a `LICENSE` file to your repository with the full license text.**]
-
 
 ---
